@@ -4,11 +4,6 @@ site_name: Pensando Python
 repo_name: o-futuro-ja-comecou/pensando-python
 repo_url: https://github.com/o-futuro-ja-comecou/pensando-python
 
-
-nav:
-  - Presentation: 000_presentation.md
-  - Chapter 1: 001_chapter1.md
-
 # Configuration
 theme:
   name: material
@@ -16,6 +11,7 @@ theme:
   features:
     # - announce.dismiss
     - content.code.annotate
+    # - content.code.copy
     # - content.tabs.link
     - content.tooltips
     # - header.autohide
@@ -32,7 +28,7 @@ theme:
     - search.share
     - search.suggest
     - toc.follow
-    - content.action.edit
+    # - content.action.edit
     # - toc.integrate
   palette:
     - scheme: default
