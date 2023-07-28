@@ -62,6 +62,9 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - pymdownx.highlight
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - toc:
       permalink: ⚓︎
   - pymdownx.superfences:
