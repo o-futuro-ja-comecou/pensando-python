@@ -58,7 +58,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 ```
 
 The first two lines contain information about the interpreter and the operating system it’s running on, so it might be different for you.
-But you should check that the version number, which is 3.10.6 in this example, begins with 3, which indicates that you are running Python 3.
+But you should check that the version number, which is `3.10.6` in this example, begins with 3, which indicates that you are running Python 3.
 If it begins with 2, you are running (you guessed it) Python 2.
 
 The last line is a prompt that indicates that the interpreter is ready for you to enter code.
@@ -116,7 +116,7 @@ The operators `+`, `-`, `*` and `/` perform addition, subtraction, multiplicatio
 42.0
 ```
 
-You might wonder why the result of `84 / 2` is `42.0` instead of `42`, and I’ll explain in the next section.
+You might wonder why the result of `84 / 2` is `42.0` instead of `42`, and I’ll explain it in the next section.
 Finally, the operator `**` performs exponentiation, that is, it raises a number to a power:
 
 ```python linenums="1"
@@ -150,7 +150,8 @@ If you are not sure what type a value has, the interpreter can tell you:
 <class 'str'>
 ```
 
-In these results, the word `class` is used in the sense of a category; a **type is a category of values**.
+In these results, the word `class` is used in the sense of a category.
+A **type is a category of values**.
 Not surprisingly, integers belong to the type `int`, strings belong to `str` and floating-point numbers belong to `float`.
 What about values like `'2'` and `'42.0'`? They look like numbers, but they are in quotation
 marks like strings.
