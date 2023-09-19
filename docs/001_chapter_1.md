@@ -284,7 +284,7 @@ The types we have seen so far are integers (type `int`), floating-point numbers 
 - **Bug**: An error in a program.
 - **Debugging**: The process of finding and correcting bugs.
 
-## Exercises
+## Exercises[^3]
 
 - **Exercise 1.1.** It is a good idea to read this book in front of a computer so you can try out the examples as you go.
 Whenever you are experimenting with a new feature, you should try to make mistakes.
@@ -310,3 +310,4 @@ Try:
 
 [^1]: Reeves and Nass, [The Media Equation](https://en.wikipedia.org/wiki/The_Media_Equation): How People Treat Computers, Television, and New Media Like Real Peopleand Places.
 [^2]: There are 1.61 kilometers in a mile.
+[^3]: More exercises avalible at [GitHub](https://github.com/o-futuro-ja-comecou/desafios-pensando-python/tree/main/desafios/001_the_way_of_program).
