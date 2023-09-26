@@ -343,7 +343,7 @@ You cannot use keywords like `if`, `def`, and `while` as variable names.
     - In math notation you can multiply `x` and `y` like `xy`.
     What happens if you try that in Python?
 - **Exercise 2.2**: Practice using the Python interpreter as a calculator:
-    -  The volume of a sphere with radius `r` is $\frac{4}{3}π^3$.
+    -  The volume of a sphere with radius `r` is $\frac{4}{3}πr^3$.
     What is the volume of a sphere with radius 5?
     -  Suppose the cover price of a book is `$24.95`, but bookstores get a `40%` discount.
     Shipping costs `$3` for the first copy and `75` cents for each additional copy. What is the total wholesale cost for `60` copies?
