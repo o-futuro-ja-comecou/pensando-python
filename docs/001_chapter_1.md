@@ -286,7 +286,7 @@ The types we have seen so far are integers (type `int`), floating-point numbers 
 
 ## Exercises[^3]
 
-- **Exercise 1.1.** It is a good idea to read this book in front of a computer so you can try out the examples as you go.
+- **Exercise 1.1**: It is a good idea to read this book in front of a computer so you can try out the examples as you go.
 Whenever you are experimenting with a new feature, you should try to make mistakes.
 For example, in the `'Hello, world!'` program, what happens if you leave out one of the quotation marks?
 What if you leave out both?
@@ -302,7 +302,7 @@ Try:
     What happens if you try this in Python?
     What about `011`?
     - What happens if you have two values with no operator between them?
-- **Exercise 1.2.** Start the Python interpreter and use it as a calculator.
+- **Exercise 1.2**: Start the Python interpreter and use it as a calculator.
     - How many seconds are there in 42 minutes and 42 seconds?
     - How many miles are there in 10 kilometers?[^2].
     - If you run a 10 kilometer race in 42 minutes 42 seconds, what is your average pace (time per mile in minutes and seconds)?
