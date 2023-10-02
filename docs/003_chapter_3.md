@@ -253,3 +253,5 @@ before the definitions.
 Run the program and see what error message you get.
 Now move the function call back to the bottom and move the definition of `print_lyrics`
 after the definition of `repeat_lyrics`. What happens when you run this program?
+
+## Flow of execution
